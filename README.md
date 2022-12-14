@@ -18,18 +18,21 @@ I'm __Front End Developer__ Geon, who try to think about user point of view
 <a href="https://github.com/GEON1999/carrot-market" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/></a>
 
 
-#### DB
+#### Back End
 <a href="https://github.com/GEON1999/wetube-reloaded" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/></a>
 <a href="https://github.com/GEON1999/carrot-market" target="_blank"><img src="https://img.shields.io/badge/PlanetScale-000000?style=for-the-badge&logo=PlanetScale&logoColor=white"/></a>   
 <a href="https://github.com/GEON1999/wetube-reloaded" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>
 <a href="https://github.com/GEON1999/carrot-market" target="_blank"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white"/></a>
 <a href="https://github.com/GEON1999/carrot-market" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/></a>
+<a href="https://github.com/GEON1999/wetube-reloaded" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>
 
-#### CSS
+#### Front End
 <a href="https://github.com/GEON1999/portfolio-collection" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
 <a href="https://github.com/GEON1999/carrot-market" target="_blank"><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/></a>
 <a href="https://github.com/GEON1999/Netflix-clone" target="_blank"><img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></a>
 <a href="https://github.com/GEON1999/portfolio-collection" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white" />
+
 
 #### Deploy
 <a href="https://github.com/GEON1999/wetube-reloaded" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white"/></a>
