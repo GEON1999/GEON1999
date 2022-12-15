@@ -50,5 +50,10 @@ I'm __Front End Developer__ Geon, who try to think about user point of view
 </br></br>
 
 ![phgst12@gamil.com's github stats](https://github-readme-stats.vercel.app/api?username=geon1999&show_icons=true)
+
+</br>
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGEON1999%2Fhit-counter&count_bg=%238C93E3&title_bg=%23787373&icon=azurepipelines.svg&icon_color=%23EBE4E4&title=hits&edge_flat=false"/></a>
+
 </div>
 
