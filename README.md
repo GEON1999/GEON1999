@@ -18,7 +18,7 @@ I'm __Front End Developer__ Geon, who try to think about user point of view
 <a href="https://github.com/GEON1999/carrot-market" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/></a>
 
 
-#### Back End
+#### Back End & Server
 <a href="https://github.com/GEON1999/wetube-reloaded" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/></a>
 <a href="https://github.com/GEON1999/carrot-market" target="_blank"><img src="https://img.shields.io/badge/PlanetScale-000000?style=for-the-badge&logo=PlanetScale&logoColor=white"/></a>   
 <a href="https://github.com/GEON1999/wetube-reloaded" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>
@@ -26,7 +26,7 @@ I'm __Front End Developer__ Geon, who try to think about user point of view
 <a href="https://github.com/GEON1999/carrot-market" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/></a>
 <a href="https://github.com/GEON1999/wetube-reloaded" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>
 
-#### Front End
+#### CSS
 <a href="https://github.com/GEON1999/portfolio-collection" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
 <a href="https://github.com/GEON1999/carrot-market" target="_blank"><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/></a>
 <a href="https://github.com/GEON1999/Netflix-clone" target="_blank"><img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></a>
