@@ -43,7 +43,6 @@ I'm __Front End Developer__ Geon, who try to think about user point of view
 
 
 ### Contact 📞
-<a href="https://www.instagram.com/p_g__99/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:phgst12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 
